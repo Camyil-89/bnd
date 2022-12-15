@@ -1,5 +1,5 @@
 <BotNet>
- 	<last_version version="1.6.0.0"/>
+ 	<last_version version="1.7.0.0"/>
 	<versions>
 		<item version="1.0.0.0">
 			<dowload path="1.0.0.0/update.zip"/>
@@ -21,6 +21,9 @@
 		</item>
 		<item version="1.6.0.0">
 			<dowload path="1.6.0.0/update.zip"/>
+		</item>
+		<item version="1.7.0.0">
+			<dowload path="1.7.0.0/update.zip"/>
 		</item>
 	</versions>
 </BotNet>
